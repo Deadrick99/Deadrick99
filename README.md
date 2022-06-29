@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Hi I am currently Working on my algorithm visualizer!
 <!--
 **Deadrick99/Deadrick99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
