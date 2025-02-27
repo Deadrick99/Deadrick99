@@ -1,11 +1,13 @@
 ### Hi there 👋, my name is William Simmons
-#### I am a recent graduate of ETSU
- I love learning about new web frameworks and ultimately all aspects of web development! I am constantly learning and trying to be a better version of who I was yesterday!
+#### I am a Software engineer at Siemens
+#### I received my bachelors in CS from ETSU in Dec 2022 and am current pursueing my masters in CS at ETSU
+#### I have a Professional certification in functional safety from TUV SUD
+ I love learning about new techonology. I have recently developed an interest in neovim and machine learning and am investigating those areas.
+ 
+ I am constantly learning and trying to be a better version of who I was yesterday!
 
-Skills: REACT / JS / HTML / CSS / TAILWINDCSS / NODE / EXPRESS
-
-- 🔭 I’m currently working on an employee scheduling app to solve a problem my manager is having. 
-- 🌱 I’m currently learning JSON WEB TOKENS / AUTHENTICATION & ATUHORIZATION  
+Skills: C#, C++, XML, NUnit, TMS, Git, Python, Agile, Scrum, Azure devops
+ 
 - 😄 Pronouns: HE/HIM 
 
 
